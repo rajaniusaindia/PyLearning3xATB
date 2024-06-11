@@ -5,7 +5,7 @@ print(is_married)
 age = 65
 
 # Binary 0,1
-number_ten = 0B1010 # decimal = 10
+number_ten = 0B1010 # decimal = 10 - add 0B in front - Website Dec to Binary
 
 # Rapid Tables
 # oct
@@ -19,14 +19,8 @@ d = 0x12c
 """ This is is a
 """
 
-# Assignment operator
-name = "Pramod"
 
-# compare operator
 
-v1 = (1 == True)
-v2 = (0 == False)
-print(v1)
 
 
 
