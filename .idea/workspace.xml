@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebabb8a-1dc6-4d2c-8f56-d0429d62bcf4" name="Changes" comment="June 7 Day 3 - Other Data types - Arrays, Lists, None">
-      <change afterPath="$PROJECT_DIR$/ex_09062024/Lab035.py" afterDir="false" />
+    <list default="true" id="3ebabb8a-1dc6-4d2c-8f56-d0429d62bcf4" name="Changes" comment="June 7-9 Day 3-4 - Other Data types - Arrays, Lists, None">
+      <change afterPath="$PROJECT_DIR$/ex_09062024/Assignments/Task #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_09062024/Assignments/Task #2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab026.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Lab30.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Lab30.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Assignment.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -74,6 +66,8 @@
     "Python.Lab035.executor": "Run",
     "Python.Lab30.executor": "Run",
     "Python.Py005.executor": "Run",
+    "Python.Task #1.executor": "Run",
+    "Python.Task #2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -140,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718117785412</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="June 7 Day 3 - Other Data types - Arrays, Lists, None">
+      <option name="closed" value="true" />
+      <created>1718130540919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718130540919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
