@@ -5,43 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ebabb8a-1dc6-4d2c-8f56-d0429d62bcf4" name="Changes" comment="June 16 Assignment &amp; class work">
-      <change afterPath="$PROJECT_DIR$/ex_09062024/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_19062024/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_20062024/Lab102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_20062024/Q 1.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_20062024/Q 2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_20062024/Q 3.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_20062024/Q 4.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_20062024/Q 5.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_20062024/Q 6.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_24062024/Lab110.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_09062024/Assignments/Task #1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_09062024/Assignments/Task #1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_20062024/Lab102.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_20062024/Lab102.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_24062024/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_24062024/Lab104.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,8 +129,15 @@
     "Python.Lab100.executor": "Run",
     "Python.Lab101.executor": "Run",
     "Python.Lab102.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab106.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
     "Python.Lab30.executor": "Run",
     "Python.Py005.executor": "Run",
+    "Python.Q 5.0.executor": "Run",
     "Python.Task #1.executor": "Run",
     "Python.Task #2.executor": "Run",
     "Python.Task02-1.executor": "Run",
@@ -165,11 +150,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ex_20062024" />
       <recent name="$PROJECT_DIR$/ex_13062024" />
       <recent name="$PROJECT_DIR$/ex_11062024" />
       <recent name="$PROJECT_DIR$/ex_09062024/Assignments" />
       <recent name="$PROJECT_DIR$/ex_09062024" />
-      <recent name="$PROJECT_DIR$/ex_05062024" />
     </key>
   </component>
   <component name="RunManager">
@@ -381,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718592140088</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="June 16 Assignment &amp; class work">
+      <option name="closed" value="true" />
+      <created>1719277702126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719277702126</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

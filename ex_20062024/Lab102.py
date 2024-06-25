@@ -25,3 +25,14 @@ od['d'] = 55
 print(od)
 
 # OrderedDict([('a', 45), ('b', 35), ('c', 25)])
+
+# For loop - search and find items in a dictionary
+my_new_dict = {'a': 1, 'b': 2, 'c': 35}
+for k,v in my_new_dict.items():
+    # print(k, v)
+    if k == 'b':
+        print("key with the name b is found")
+
+    op = 'b' in my_new_dict
+    print(op)
+
