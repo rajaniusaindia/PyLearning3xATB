@@ -2,8 +2,8 @@
 # Task #1
 # Explain the difference between the = operator and the == operator in Python
 a = 10  # Assignment operator - assigns a value to a variable, used to initialize
-b = 20
-print(a == b)  # Comparison operator - compares 2 values and return True if equal, False otherwise
+b = 10
+print(a == b)  # Equality operator - compares 2 values and return True if equal, False otherwise
 
 # What does the ** operator do in Python and how is it used?
 # The ** operator is used as an exponential.
