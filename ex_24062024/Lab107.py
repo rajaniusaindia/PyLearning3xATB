@@ -1,4 +1,4 @@
-# Recorsion
+# Recursion
 # A technique where a function calls itself to solve a problem
 
 # Key Concepts

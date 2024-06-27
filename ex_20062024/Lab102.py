@@ -1,4 +1,6 @@
 # Dictionary order is random
+# Very close to JSON
+# Playwright basics - June 14
 
 my_dict = {'a': 1, 'b': 2, 'c': 35, 'd': 45, 'e': 55}
 print(my_dict)

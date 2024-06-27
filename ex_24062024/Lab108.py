@@ -1,5 +1,5 @@
-# recursion  - LeetCode program - Hacathon - Sum of Deigits
-
+# recursion  - LeetCode program - Hackathon - Sum of Digits
+# check in chatGPT to understand
 number = 12345
 sum_of_degits = 15
 # keep dividing number by 10
